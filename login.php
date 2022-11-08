@@ -9,7 +9,7 @@
 	$errflag = false;
 	
 	//Connect to mysqli server
-	$link = mysqli_connect('localhost','root',"");
+	$link = mysqli_connect('localhost','tsavosit_faith',"*HGLuEVnohX8");
 	if(!$link) {
 		die('Failed to connect to server: ' . mysqli_error());
 	}
