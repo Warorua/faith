@@ -1,9 +1,9 @@
 <?php
 /* Database config */
 $db_host		= 'localhost';
-$db_user		= 'root';
-$db_pass		= '';
-$db_database	= 'sales'; 
+$db_user		= 'tsavosit_faith';
+$db_pass		= '*HGLuEVnohX8';
+$db_database	= 'tsavosit_faith'; 
 
 /* End config */
 
