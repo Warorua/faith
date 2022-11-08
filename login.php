@@ -15,7 +15,7 @@
 	}
 	
 	//Select database
-	$db = mysqli_select_db($link,'sales');
+	$db = mysqli_select_db($link,'tsavosit_faith');
 	if(!$db) {
 		die("Unable to select database");
 	}
